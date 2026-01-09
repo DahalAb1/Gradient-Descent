@@ -42,7 +42,7 @@ $$\theta_1 := \theta_1 - \alpha \cdot \frac{\partial f}{\partial \theta_1}$$
 
 $$\theta_0 := \theta_0 - \alpha \cdot \frac{\partial f}{\partial \theta_0}$$
 
-where $\alpha$ is the learning rate.
+where, 
 
 ## What I Learned
 
