@@ -34,7 +34,7 @@ Partial derivative with respect to bias:
 
 $$\frac{\partial f}{\partial \theta_0} = \frac{2}{m} \sum_{i=1}^{m} \text{error}_i$$
 
-where $\text{error}_i = (y_{\text{pred},i} - y_{\text{actual},i})$
+where, 
 
 ### Parameter Update Rule
 
