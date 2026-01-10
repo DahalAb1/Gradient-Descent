@@ -34,7 +34,6 @@ Partial derivative with respect to bias:
 
 $$\frac{\partial f}{\partial \theta_0} = \frac{2}{m} \sum_{i=1}^{m} \text{error}_i$$
 
-where, 
 
 ### Parameter Update Rule
 
@@ -42,7 +41,6 @@ $$\theta_1 := \theta_1 - \alpha \cdot \frac{\partial f}{\partial \theta_1}$$
 
 $$\theta_0 := \theta_0 - \alpha \cdot \frac{\partial f}{\partial \theta_0}$$
 
-where, 
 
 ## What I Learned
 
